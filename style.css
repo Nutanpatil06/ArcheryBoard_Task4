@@ -1,0 +1,60 @@
+
+.card1{
+    background-color: black;
+    height: 30rem;
+    width: 30rem;
+    border-radius: 100%;
+    position: relative;
+    top: 8rem;
+    left: 33rem;
+}
+
+.card2{
+    background-color: rgb(58, 57, 57);
+    height: 25rem;
+    width: 25rem;
+    border-radius: 100%;
+    position: absolute;
+    top: 11rem;
+    left: 36rem;
+}
+
+.card3{
+    background-color: white;
+    height: 20rem;
+    width: 20rem;
+    border-radius: 100%;
+    position: absolute;
+    top: 13.5rem;
+    left: 38.5rem;
+}
+
+.card4{
+    background-color: blue;
+    height: 15rem;
+    width: 15rem;
+    border-radius: 100%;
+    position: absolute;
+    top: 16rem;
+    left: 41rem;
+}
+
+.card5{
+    background-color: red;
+    height: 10rem;
+    width: 10rem;
+    border-radius: 100%;
+    position: absolute;
+    top: 18.5rem;
+    left: 43.5rem;
+}
+
+.card6{
+    background-color: black;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 100%;
+    position: absolute;
+    top: 22.5rem;
+    left: 47.5rem;
+}
